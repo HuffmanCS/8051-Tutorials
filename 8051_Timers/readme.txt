@@ -9,7 +9,7 @@ timer.ihx   -Intel hex file containing machine code compiled by SDCC (compiled f
 
 Some helpful links & resources...
 
-T89S52 Datasheet: 
+AT89S52 Datasheet: 
 https://ww1.microchip.com/downloads/en/DeviceDoc/doc1919.pdf
 
 C51 Assembler: 
